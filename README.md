@@ -28,4 +28,4 @@ Aquí voy a ir subiendo **prácticas, proyectos y trabajos** relacionados con mi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
 
-⭐ *Si te interesa mi progreso, seguí mis repositorios y conectemos en LinkedIn* 🚀
+⭐ Si te interesa mi progreso, seguí mis repositorios y conectemos en LinkedIn 🚀
