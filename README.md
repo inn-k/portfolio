@@ -1,13 +1,18 @@
-# 🚀 Mi Portafolio en GitHub
+# 🚀 Portafolio de Proyectos
 
 Bienvenid@ a mi portafolio 👋  
-Aquí voy a ir subiendo **prácticas, proyectos y trabajos** relacionados con mis estudios en informática, programación y ciberseguridad.  
+Este repositorio reúne mis **proyectos, prácticas y trabajos** vinculados a programación, sistemas y ciberseguridad. Su objetivo es documentar mi progreso y mostrar mi desarrollo técnico dentro del camino hacia el **Blue Team / SOC**.
 
-## 📌 Sobre mí
-- 🎓 Estudiante de informática / sistemas  
-- 💻 Interesada en **ciberseguridad, programación y sistemas operativos**  
-- 📚 Actualmente aprendiendo: Python, Linux, redes y seguridad  
-- 🚀 Buscando crecer con proyectos prácticos y documentar mi progreso  
+## 🌟 Sobre mí
+Soy estudiante de la **Licenciatura en Ciberdefensa (FADENA)** y actualmente me estoy formando para desempeñarme como **Analista SOC Jr.**  
+
+Me interesa especialmente el trabajo en entornos Linux, la seguridad defensiva y la automatización. A través de este portafolio registro mis avances prácticos en:
+
+• Ciberseguridad y fundamentos Blue Team  
+• Programación en Python  
+• Linux y administración básica de sistemas  
+• Redes y análisis de tráfico  
+• Laboratorios prácticos y ejercicios técnicos  
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -16,16 +21,21 @@ Aquí voy a ir subiendo **prácticas, proyectos y trabajos** relacionados con mi
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-008CFF?style=for-the-badge&logo=cisco&logoColor=white)
-![Ciberseguridad](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Security](https://img.shields.io/badge/Blue_Team-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ## 📂 Proyectos Destacados
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-4CAF50?style=for-the-badge&logo=githubpages&logoColor=white)](https://inn-k.github.io/portfolio/)  
-[![Blog & Docs](https://img.shields.io/badge/Blog-Docs-2E7D32?style=for-the-badge&logo=gitbook&logoColor=white)](https://linn-s-book.gitbook.io/ingrid-k/)  
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-1E0FBE?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1524449)
+• 🌐 **Portfolio Web** – repositorio y presentación visual de mis proyectos  
+  👉 https://inn-k.github.io/portfolio/
+
+• 🧪 **Hack The Box** – perfil con máquinas prácticas resueltas  
+  👉 https://app.hackthebox.com/profile/1524449
 
 ## 📬 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
 
-⭐ Si te interesa mi progreso, seguí mis repositorios y conectemos en LinkedIn 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ingrid-k)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingridkaufmannok@gmail.com)
+
+---
+
+⭐ Si te interesa mi progreso, ¡seguí mis repositorios o conectemos en LinkedIn!
