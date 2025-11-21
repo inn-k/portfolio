@@ -1,6 +1,6 @@
-# 🚀 Portafolio de Proyectos
+# 🚀 Portfolio de Proyectos
 
-Bienvenid@ a mi portafolio 👋  
+Bienvenid@ a mi portfolio 👋  
 Este repositorio reúne mis **proyectos, prácticas y trabajos** vinculados a programación, sistemas y ciberseguridad. Su objetivo es documentar mi progreso y mostrar mi desarrollo técnico dentro del camino hacia el **Blue Team / SOC**.
 
 ## 🌟 Sobre mí
