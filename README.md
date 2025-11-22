@@ -26,11 +26,11 @@ Me interesa especialmente el trabajo en entornos Linux, la seguridad defensiva y
 
 ## 📂 Proyectos Destacados
 
-• 🌐 **Portfolio Web** – presentación visual de mis proyectos  
-  👉 https://inn-k.github.io/portfolio/
+• **Portfolio Web** – presentación visual de mis proyectos  
+  https://inn-k.github.io/portfolio/
 
-• 🧪 **Hack The Box** – perfil con máquinas prácticas resueltas  
-  👉 https://app.hackthebox.com/profile/1524449
+• **Hack The Box** – perfil con máquinas prácticas resueltas  
+  https://app.hackthebox.com/profile/1524449
 
 ## 📬 Contacto
 
