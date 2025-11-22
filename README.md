@@ -1,4 +1,14 @@
 # 🚀 Portfolio de Proyectos
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-008CFF?style=for-the-badge&logo=cisco&logoColor=white)
+![Security](https://img.shields.io/badge/Blue_Team-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 Bienvenid@ a mi portfolio 👋  
 Este repositorio reúne mis **proyectos, prácticas y trabajos** vinculados a programación, sistemas y ciberseguridad. Su objetivo es documentar mi progreso y mostrar mi desarrollo técnico dentro del camino hacia el **Blue Team / SOC**.
@@ -14,15 +24,6 @@ Me interesa especialmente el trabajo en entornos Linux, la seguridad defensiva y
 • Redes y análisis de tráfico  
 • Laboratorios prácticos y ejercicios técnicos  
 
-## 🛠️ Tecnologías y herramientas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-008CFF?style=for-the-badge&logo=cisco&logoColor=white)
-![Security](https://img.shields.io/badge/Blue_Team-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=white)
-
 ## 📂 Proyectos Destacados
 
 • 🌐 **Portfolio Web** – presentación visual de mis proyectos  
@@ -35,7 +36,3 @@ Me interesa especialmente el trabajo en entornos Linux, la seguridad defensiva y
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ingrid-k)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingridkaufmannok@gmail.com)
-
----
-
-⭐ Si te interesa mi progreso, ¡seguí mis repositorios o conectemos en LinkedIn!
