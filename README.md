@@ -8,9 +8,6 @@
 ![Networking](https://img.shields.io/badge/Networking-008CFF?style=for-the-badge&logo=cisco&logoColor=white)
 ![Security](https://img.shields.io/badge/Blue_Team-101345?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-Bienvenid@ a mi portfolio 
-Este repositorio reúne mis **proyectos, prácticas y trabajos** vinculados a programación, sistemas y ciberseguridad. Su objetivo es documentar mi progreso y mostrar mi desarrollo técnico dentro del camino hacia el **Blue Team / SOC**.
-
 ---
 
 ## 🌟 Sobre mí
