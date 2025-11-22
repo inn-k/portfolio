@@ -15,11 +15,11 @@ Soy estudiante de la **Licenciatura en Ciberdefensa (FADENA)** y actualmente me 
 
 Me interesa especialmente el trabajo en entornos Linux, la seguridad defensiva y la automatización. A través de este portafolio registro mis avances prácticos en:
 
-• Ciberseguridad y fundamentos Blue Team  
-• Programación en Python  
-• Linux y administración básica de sistemas  
-• Redes y análisis de tráfico  
-• Laboratorios prácticos y ejercicios técnicos  
+• Ciberseguridad y fundamentos Blue Team.  
+• Programación en Python.  
+• Linux y administración básica de sistemas.  
+• Redes y análisis de tráfico.  
+• Laboratorios prácticos y ejercicios técnicos.  
 
 ---
 
