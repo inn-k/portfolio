@@ -29,7 +29,7 @@ Me interesa especialmente el trabajo en entornos Linux, la seguridad defensiva y
   https://inn-k.github.io/portfolio/
 
 • **Hack The Box** – perfil con máquinas prácticas resueltas  
-  https://app.hackthebox.com/profile/1524449
+  https://app.hackthebox.com/public/users/1524449
 
 ---
 
